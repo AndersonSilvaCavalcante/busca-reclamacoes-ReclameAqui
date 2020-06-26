@@ -1,0 +1,6 @@
+__pycache__
+buscar-reclamacoes
+*.csv
+*.log
+*.zip
+.vscode
